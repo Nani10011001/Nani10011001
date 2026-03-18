@@ -106,24 +106,36 @@ Hey! I'm **Nani**, a **Fresher AI Engineer** from Chittoor 🇮🇳, deeply pass
 </div>
 
 ---
-
-🏆 GitHub Trophies
+ 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Nani10011001&theme=tokyonight&no-frame=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=Nani10011001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
+![](https://nirzak-streak-stats.vercel.app/?user=Nani10011001&theme=tokyonight&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nani10011001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
 
-### 🔝 Top Contributed Repos
+ 🏆 GitHub Trophies
 
-![](https://github-contributor-stats.vercel.app/api?username=Nani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Nani10011001&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 ---
+🔝 Top Contributed Repos
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Nani10011001&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
 
 ### ✍️ Random Dev Quote
 
