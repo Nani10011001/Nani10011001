@@ -112,7 +112,12 @@ Hey! I'm **Nani**, a **Fresher AI Engineer** from Chittoor 🇮🇳, deeply pass
 
 <div align="center">
 
-![](https://streak-stats.demolab.com?user=Nani10011001&theme=tokyonight&hide_border=false)
+![](https://github-profile-trophy.vercel.app/?username=Nani10011001&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+
+
+
+
+
 
 </div>
 
