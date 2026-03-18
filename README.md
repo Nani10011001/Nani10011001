@@ -108,29 +108,6 @@ Hey! I'm **Nani**, a **Fresher AI Engineer** from Chittoor 🇮🇳, deeply pass
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Nani10011001&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
-
-
-
-
-
-</div>
-
----
-
-### 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Nani10011001&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
 ---
 
 ### ✍️ Random Dev Quote
