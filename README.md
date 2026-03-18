@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Nani!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20LLM%20Builder&descAlignY=55&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🤖+AI+Engineer+%7C+LLM+%7C+RAG+%7C+Agentic+Systems;🌐+Full-Stack+Developer+%7C+MERN+%7C+FastAPI;🔥+Building+Intelligent+AI-Powered+Products)](https://git.io/typing-svg)
