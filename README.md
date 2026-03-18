@@ -120,15 +120,16 @@ Hey! I'm **Nani**, a **Fresher AI Engineer** from Chittoor 🇮🇳, deeply pass
 
 ---
 
- 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Nani10011001&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nani10011001&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
 
 </div>
 
 ---
+
 🔝 Top Contributed Repos
 
 <div align="center">
@@ -136,7 +137,15 @@ Hey! I'm **Nani**, a **Fresher AI Engineer** from Chittoor 🇮🇳, deeply pass
 ![](https://github-contributor-stats.vercel.app/api?username=Nani10011001&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
+```
 
+---
+
+## ⚠️ 3 Rules for images inside `<div>` on GitHub
+```
+1. Blank line AFTER <div align="center">
+2. The ![image]() on its own line
+3. Blank line BEFORE </div>
 ### ✍️ Random Dev Quote
 
 <div align="center">
