@@ -12,7 +12,7 @@
 
 > *"I don't just use AI — I engineer it."* 🔥
 
-Hey! I'm **Nani**, a **Fresher AI Engineer** from Hyderabad 🇮🇳, deeply passionate about building intelligent, real-world AI-powered products from the ground up.
+Hey! I'm **Nani**, a **Fresher AI Engineer** from Chittoor 🇮🇳, deeply passionate about building intelligent, real-world AI-powered products from the ground up.
 
 - 🤖 Obsessed with **AI Engineering**, LLMs, RAG & Agentic Systems
 - 🌐 Building end-to-end apps with the **MERN Stack + FastAPI**
@@ -46,7 +46,7 @@ Hey! I'm **Nani**, a **Fresher AI Engineer** from Hyderabad 🇮🇳, deeply pas
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=plastic&logo=graphql&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C3483?style=plastic&logo=llama&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-F4A261?style=plastic&logo=chain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=plastic&logo=groq&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=plastic&logo=huggingface&logoColor=black)
 
 ### 🌐 Frontend
